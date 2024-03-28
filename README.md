@@ -8,4 +8,5 @@ Introdução **(falta)**
 3. Preparação dos dados: rotulação dos pixeis
 4. Preparando o conjunto de treinamento **(falta)**
 5. Treinando e testando o modelo **(falta)**
+
 Apendice 1: Entendendo a classe *ProjetoCarcara* em *modulo.py* **(falta)**
