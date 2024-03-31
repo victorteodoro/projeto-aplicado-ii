@@ -2,8 +2,6 @@
 Aqui Datasets, análises e resultados da disciplina Projeto Integrado II do curso de Ciência de Dados do Mackenzie
 
 ## Membros
-# Projeto Aplicado 1 - Análise de turnover
-## Membros
 
 | Nome                         | RA       | Email                       |
 | ---------------------------- | -------- | --------------------------- |
@@ -22,7 +20,7 @@ O repositório possui duas pastas fundamentais:
 
 - [Data](./data): em que guardamos os datasets utilizados nas análises
 - [Notebooks](./notebooks): em que guardamos os notebooks Jupyter utilizados.
-
+- [Helpers](./helpers): classes e funções de ajuda na análise e limpeza dos dados.
 
 ## Reproduzindo os resultados
 Para reproduzir localmente, clone o repositório, vá até a pasta em que clonou e:
