@@ -1,0 +1,16 @@
+name: proj-carcara
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - ee
+  - google
+  - cryptography
+  - base64
+  - json
+  - getpass
+  - urllib
+  - matplotlib
+  - shapely
