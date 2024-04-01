@@ -18,7 +18,7 @@ Com a alta disponibilidade de imagens de satélite atualmente, propomos criar um
 ## Organização do repositório
 O repositório possui duas pastas fundamentais:
 
-- [Data](./data): em que guardamos os datasets utilizados nas análises
+- [Models](./models): em que guardamos os modelos treinados para serem reutilizados.
 - [Notebooks](./notebooks): em que guardamos os notebooks Jupyter utilizados.
 - [Helpers](./helpers): classes e funções de ajuda na análise e limpeza dos dados.
 
