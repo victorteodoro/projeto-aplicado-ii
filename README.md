@@ -61,3 +61,4 @@ jupyter lab
 3. [Preparação dos dados: rotulação dos pixeis](https://github.com/victorteodoro/projeto-aplicado-ii/blob/main/3_Prepara%C3%A7%C3%A3o_dos_dados_rotula%C3%A7%C3%A3o_dos_pixeis.ipynb)
 4. [Preparando o conjunto de treinamento](https://github.com/victorteodoro/projeto-aplicado-ii/blob/main/4_Preparando_o_conjunto_de_treinamento.ipynb)
 5. [Treinando e testando o modelo](https://github.com/victorteodoro/projeto-aplicado-ii/blob/main/5_Treinando_e_testando_o_modelo.ipynb)
+6. [Aplicando o modelo treinado](https://github.com/victorteodoro/projeto-aplicado-ii/blob/main/notebooks/6_Aplicando_o_modelo_treinado.ipynb)
